@@ -15,17 +15,21 @@
   <a href="https://www.linkedin.com/in/makarovm/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://github.com/dedalab">
-      <img src="https://img.shields.io/badge/GitHub-lightgrey?logo=github&logoColor=white&style=for-the-badge" alt="github Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
-  
-  <a href="https://public.tableau.com/app/profile/makarovm">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
-  </a>
-  
-  
+  <a href="https://www.messenger.com//makarovm">
+      <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
+  </a>  
 </div>
+
+## Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={dedalab}
 
 
 <img src="https://komarev.com/ghpvc/?username=dedalab&style=for-the-badge&color=blue" alt=""/>

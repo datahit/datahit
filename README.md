@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/makarovm/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/dedalab">
+  <a href="https://github.com/datahit">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
   <a href="https://www.messenger.com//makarovm">

@@ -1,4 +1,11 @@
-# About
+<h1 align='center'>
+  Hi there 👋 I'm Max.
+</h1>
+
+<p align='center'>
+  Data Analyst / Data Engineer from Finland.
+</p>
+
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QJ8bR5An4VC59FvVcx/giphy.gif"width="250"/>
@@ -20,11 +27,5 @@
   
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-### :man_technologist: About Me :
 
 <img src="https://komarev.com/ghpvc/?username=dedalab&style=for-the-badge&color=blue" alt=""/>

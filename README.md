@@ -23,13 +23,3 @@
   </a>  
 </div>
 
-## Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={dedalab}
-
-
-<img src="https://komarev.com/ghpvc/?username=dedalab&style=for-the-badge&color=blue" alt=""/>

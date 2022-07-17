@@ -25,6 +25,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 <img src="https://komarev.com/ghpvc/?username=dedalab&style=for-the-badge&color=blue" alt=""/>
